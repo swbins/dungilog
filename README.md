@@ -1,6 +1,27 @@
-# 둥이로그 (DungiLog)
+# DungiLog (둥이로그)
 
-**체험단 · 후기 · 일상 기록 앱** — 맛집 · 카페 · 제품 후기와 일상 글을, 원하면 육아 기록까지(아이 몇 명이든). 사진 몇 장과 짧은 메모를 넣으면 네이버 블로그 · 카페 · 인스타그램 · 스레드 · 틱톡 · 유튜브 쇼츠에 올릴 글 초안을 내 말투로 써 주고,
+A Windows desktop app for Korean bloggers and reviewers: turn a few photos and a short memo into draft posts for six platforms, in your own writing style.
+
+![DungiLog demo: add a memo and photos, generate drafts for six platforms at once](images/demo.gif)
+
+**Install:** download `DungiLog.exe` from [Releases](https://github.com/swbins/dungilog/releases/latest) (Windows 10/11, single file, no installer). winget: coming soon (submission pending review).
+
+- **Six drafts at once** — Naver Blog, Naver Cafe, Instagram, Threads, TikTok, YouTube Shorts, with `[photo n]` placeholders
+- **Your voice** — learns sentence length, endings and emoji habits from a few of your own posts
+- **"AI-ish" check without AI** — flags clichés, repeated endings and repeated emoji
+- **Sponsored-review tracking** — required keywords, tags, links, deadlines; the disclosure line is added by the app
+- **Income ledger** — payments and product values, Excel export for tax filing
+- **Thumbnails, card news, growth records, monthly photo album PDF**
+
+Free. No API key — AI is optional (a bundled local model, or a Claude Code / Codex / Gemini CLI subscription you already have). Runs locally; photos and posts stay on your PC. No auto-posting or auto-login. The UI is in Korean.
+
+[한국어 설명 ↓](#한국어)
+
+---
+
+## 한국어
+
+**둥이로그 (DungiLog)** — **체험단 · 후기 · 일상 기록 앱** — 맛집 · 카페 · 제품 후기와 일상 글을, 원하면 육아 기록까지(아이 몇 명이든). 사진 몇 장과 짧은 메모를 넣으면 네이버 블로그 · 카페 · 인스타그램 · 스레드 · 틱톡 · 유튜브 쇼츠에 올릴 글 초안을 내 말투로 써 주고,
 체험단 · 협찬 조건과 마감, 받은 돈까지 한곳에 정리합니다. **무료**이고, 내 PC 안에서만 돕니다.
 
 ![글 만들기 화면](images/write.png)
